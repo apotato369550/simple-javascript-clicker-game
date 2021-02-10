@@ -1,0 +1,35 @@
+body{
+	background-color: #fff2e6;
+}
+#body{
+	text-align: center;
+}
+.head{
+	font-family: Apple Chancery, cursive;
+	color: #ffbb80;
+	text-align: center;
+	font-size: 3em;
+}
+.points{
+	background-color: #ffe5cc;
+    padding-bottom: 20px;
+	padding-top: 20px;
+}
+.text{
+	font-family: Apple Chancery, cursive;
+	font-size: 25px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	color:  #ffa64d;
+
+}
+.button{
+	font-family: Apple Chancery, cursive;
+	background-color: #ffe5cc;
+	font-size: 20px;
+	border-style: none;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: #ffa64d;
+
+}
